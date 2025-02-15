@@ -1,0 +1,6 @@
+TEST:
+1.Para ejecutar los test es con el comando ng test
+2. Internamente la prueba ya hace sus repectiva validaciones eso se puede ver en el archivo clima.component.ts
+
+Ejecutar el project
+ng serve
